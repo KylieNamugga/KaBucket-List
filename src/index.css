@@ -1,0 +1,52 @@
+*{
+    margin-left: 20px;
+}
+
+body{
+    margin: auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.navbar{
+    display: flex;
+}
+
+.navbar h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+}
+
+.navbar ul{
+    list-style: none;
+    display: flex;
+}
+
+.navbar ul li{
+    padding: 20px;
+    font-weight: bold;
+}
+
+.main h1{
+    margin-left:15%;
+}
+
+.main p{
+    font-weight: bold;
+}
+
+.row{
+    padding: 20px;
+}
+
+.col i{
+    color: red;
+}
+
+.col button{
+    background-color:rgba(165, 42, 42, 0.638);
+    color: white;
+}
+
+.col a {
+    color: goldenrod;
+}
